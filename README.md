@@ -38,16 +38,21 @@ Dæmi af gathering quests:
 ### Grind
 Grind questin eru eitthvað sem gerast í rauninni bara á meðan þú spilar, en þarft að _grinda_ þau ef þú ert að reyna að klára einhvern flokk t.d.
 * Grafa 5.000 Stone
- * Grafa 20.000 Stone
- * Grafa 50.000 Stone
+ - Grafa 20.000 Stone
+ - Grafa 50.000 Stone
+
 * Höggva 500 Logs
- * Höggva 2.000 Logs
- * Höggva 10.000 Logs
+ - Höggva 2.000 Logs
+ - Höggva 10.000 Logs
+
 * Drepa 100 Zombies
- * Drepa 500 Zombies
- * Drepa 2.500 Zombies
+ - Drepa 500 Zombies
+ - Drepa 2.500 Zombies
+
 Þetta eru bara tillögur og tölurnar út í bláinn. Þarf að skoða tölurnar og koma með fleiri hugmyndir.
 
 ### Hjálp!
 Enn og aftur þurfum við mikla hjálp við að búa til þessi quest!!
 
+## Bosses / Raids
+Bosses og Raids er eitthvað sem okkur langar að gera. Boss eða raid myndi gefa öllum sem taka virkann þátt í því myndu fá loot (gerir x mikið damage á bossinn). Ekki verður leyfilegt að spila á fleiri en einum aðgang í einu í sama boss fight eða raidi. Það verður _loot table_ fyrir hvern boss fyrir sig og eftir 
