@@ -41,10 +41,10 @@ Grind questin eru eitthvað sem gerast í rauninni bara á meðan þú spilar, e
  * Grafa 20.000 Stone
  * Grafa 50.000 Stone
 
-W
+
 * Höggva 500 Logs
- * Höggva 2.000 Logs
- * Höggva 10.000 Logs
+ - Höggva 2.000 Logs
+ - Höggva 10.000 Logs
 
 
 * Drepa 100 Zombies
