@@ -53,4 +53,28 @@ Grind questin eru eitthvað sem gerast í rauninni bara á meðan þú spilar, e
 Enn og aftur þurfum við mikla hjálp við að búa til þessi quest!!
 
 ## Bosses / Raids
-Bosses og Raids er eitthvað sem okkur langar að gera. Boss eða raid myndi gefa öllum sem taka virkann þátt í því myndu fá loot (gerir x mikið damage á bossinn). Ekki verður leyfilegt að spila á fleiri en einum aðgang í einu í sama boss fight eða raidi. Það verður _loot table_ fyrir hvern boss fyrir sig og eftir 
+Bosses og Raids er eitthvað sem okkur langar að gera. Boss eða raid myndi gefa öllum sem taka virkann þátt í því myndu fá loot (gerir x mikið damage á bossinn). Ekki verður leyfilegt að spila á fleiri en einum aðgang í einu í sama boss fight eða raidi.
+### Loot tables
+Það verður _loot table_ fyrir hvern boss fyrir sig og eftir boss fight þá fær hver og einn eitt _roll_ á því _loot table_. Bossarnir munu droppa annaðhvort custom items eða crafting ingredients til þess að búa til þessi custom items. Gæti verið að þú þurfir að fá sérstakann járn ingot frá einum boss og skaftið frá öðrum til þess að geta búið til eitthvað sverð.
+
+### Erfiðleikastig
+Einhverjir bossar eða raid verða _early-game_ bossar og hægt er að tækla þá með ágætis Minecraft vanilla brynju og vopnum, en aðrir bossar verða sterkir, og ekki verður auðvelt að tækla þá nema að vera kominn með betri vopn og brynju frá auðveldari boss. Það verða einhver _inntökuskilyrði_ fyrir eitthvað af þessum bossum, svo sem klára einhver quest eða drepa fyrri bossa.
+
+### Sérstakir bossar
+Einnig er hugmynd um boss sem að spawnar með ákveðnu millibili og allir geta tæklað í sameiningu. Þetta verður boss sem er tiltölulega auðvelt að drepa og lítil hætta á því að deyja á. Þessi boss myndi kannski droppa lykli til þess að opna kistu sem er með fullt af random rewards.
+
+## Auction House
+Pæling er að vera með eitthvað form af auction house eða svipuðu, svo að þú getir skipt við aðra til þess að geta búið til sverðið sem þig langar í en hefur ekki tíma til þess að slátra einhverjum boss 100 sinnum til þess að fá droppið.
+
+## Announcements!
+Til þess að skapa smá samfélag í chattinu, svona innámilli þegar fólk er upptekið að smíða hús eða grafa 50.000 stone þá er hugmyndin að þegar einhver fær rare drop þá komi upp í chattinu
+> [Player] fékk [drop] frá [boss]!
+
+Þegar einhver smíðar sér einhverja súper pickaxe myndi koma
+> [Player] bjó til [nafn_á_item]!
+
+Þetta myndi hugsanlega fá fólk til þess að segja til hamingju eða skapa umræðu um tiltekinn boss eða item eða hvernig sem það fer. Að skapa sterkt samfélag er mikilvægt til þess að Spicy fái að vaxa og dafna!
+Endilega koma með fleiri hugmyndir af slíku!
+
+### Admin Events
+Okkur langar að vera af og til með events, þar sem við gætum boðið fólki að koma í eitthvað arena til dæmis, og þar spawnað einhverjum bossum og allur serverinn getur tekist á við hann í einu. Hugsanlega gerum við það á einhvern skemmtilegann hátt, svo sem að strippa alla og allir fá aðeins að vera með eitthvað tiltekið vopn og þá verða allir að vinna vel saman til þess að drepa bossinn. Það t.d. spornar við því að einhver sem er kominn með _end-game gear_ slátri bossunum fyrir alla hina og allir eru með jafna þátttöku.
