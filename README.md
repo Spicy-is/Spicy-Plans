@@ -38,16 +38,18 @@ Dæmi af gathering quests:
 ### Grind
 Grind questin eru eitthvað sem gerast í rauninni bara á meðan þú spilar, en þarft að _grinda_ þau ef þú ert að reyna að klára einhvern flokk t.d.
 * Grafa 5.000 Stone
- - Grafa 20.000 Stone
- - Grafa 50.000 Stone
+ * Grafa 20.000 Stone
+ * Grafa 50.000 Stone
 
+W
 * Höggva 500 Logs
- - Höggva 2.000 Logs
- - Höggva 10.000 Logs
+ * Höggva 2.000 Logs
+ * Höggva 10.000 Logs
+
 
 * Drepa 100 Zombies
- - Drepa 500 Zombies
- - Drepa 2.500 Zombies
+ * Drepa 500 Zombies
+ * Drepa 2.500 Zombies
 
 Þetta eru bara tillögur og tölurnar út í bláinn. Þarf að skoða tölurnar og koma með fleiri hugmyndir.
 
