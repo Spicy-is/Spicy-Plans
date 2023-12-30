@@ -76,5 +76,8 @@ Til þess að skapa smá samfélag í chattinu, svona innámilli þegar fólk er
 Þetta myndi hugsanlega fá fólk til þess að segja til hamingju eða skapa umræðu um tiltekinn boss eða item eða hvernig sem það fer. Að skapa sterkt samfélag er mikilvægt til þess að Spicy fái að vaxa og dafna!
 Endilega koma með fleiri hugmyndir af slíku!
 
-### Admin Events
+## Admin Events
 Okkur langar að vera af og til með events, þar sem við gætum boðið fólki að koma í eitthvað arena til dæmis, og þar spawnað einhverjum bossum og allur serverinn getur tekist á við hann í einu. Hugsanlega gerum við það á einhvern skemmtilegann hátt, svo sem að strippa alla og allir fá aðeins að vera með eitthvað tiltekið vopn og þá verða allir að vinna vel saman til þess að drepa bossinn. Það t.d. spornar við því að einhver sem er kominn með _end-game gear_ slátri bossunum fyrir alla hina og allir eru með jafna þátttöku.
+
+## Þakkir
+Að lokum vil ég endurtaka þá punkta sem ég byrjaði á; TAKK FYRIR AÐ GERA SPICY AÐ ÞEIM FRÁBÆRA STAÐ SEM HANN ER!
